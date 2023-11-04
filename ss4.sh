@@ -5,7 +5,7 @@
 # Shadowsocks config variables
 SS_PASSWORD="19898"
 SS_PORT=19898
-SS_METHOD="aes-256-gcm"
+SS_METHOD="aes-256-cfb"
 
 # Install Shadowsocks Python version
 function install_shadowsocks() {
